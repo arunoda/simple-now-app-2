@@ -2,5 +2,6 @@
   "type": "static",
   "env": {
     "NODE_ENV": "production"
-  }
+  },
+  "alias": "https://simple-now-app.zeit.sh/"
 }
