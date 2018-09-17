@@ -3,5 +3,9 @@
   "env": {
     "NODE_ENV": "production"
   },
-  "alias": "simple-now-app.zeit.sh"
+  "alias": [
+    "simple-now-app.zeit.sh",
+    "simple-now-app-2.now.sh",
+    "simple-now-app-3"
+  ]
 }
