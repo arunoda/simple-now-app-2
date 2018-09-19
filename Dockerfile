@@ -1,4 +1,4 @@
 # v1.0.2
 FROM alpine
 
-RUN mkdir /public && echo "Hello World 20" > /public/index.txt
+RUN mkdir /public && echo "Hello World 212" > /public/index.txt
