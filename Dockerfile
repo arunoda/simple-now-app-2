@@ -1,5 +1,5 @@
 # v1.0.2
-FROM alpinexsdsd
+FROM alpine
 
 RUN sleep 300
 
