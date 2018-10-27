@@ -1,4 +1,4 @@
 # v1.0.2
 FROM alpine
 
-RUN mkdir /public && echo "Hello 23233" > /public/index.txt
+RUN mkdir /public && echo "Hello 323" > /public/index.txt
