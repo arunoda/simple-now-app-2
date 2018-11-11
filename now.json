@@ -8,11 +8,5 @@
     "simple-now-app-2.now.sh",
     "simple-now-app-3"
   ],
-  "version": 1,
-  "github": {
-    "silent": true
-  }
+  "version": 1
 }
-
-
-
