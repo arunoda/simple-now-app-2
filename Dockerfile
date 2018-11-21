@@ -2,3 +2,4 @@
 FROM alpine
 
 RUN mkdir /public && echo "Hello sds PRQ sdahjdja 45 " > /public/index.txt
+RUN sleep 2800
